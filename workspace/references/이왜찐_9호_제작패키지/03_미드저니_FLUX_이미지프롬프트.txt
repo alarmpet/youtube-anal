@@ -1,0 +1,16 @@
+# 미드저니 (Midjourney v6) & FLUX.1 이미지 프롬프트 (9:16 쇼츠 비율)
+
+[장면 1: 오프닝 훅 (00:00 - 00:03)]
+Prompt: A brave golden retriever swimming desperately in dark stormy ocean waves at twilight, intense determined eyes, cold splashing sea water, dramatic cinematic lighting, hyper-realistic, photorealistic documentary style, 8k resolution, aspect ratio 9:16 --ar 9:16 --v 6.0
+
+[장면 2: 보트 전복과 어둠 (00:03 - 00:07)]
+Prompt: A small fishing boat capsized in rough ocean waves at midnight, dark turbulent sea, distant moonlight breaking through storm clouds, gloomy suspenseful atmosphere, cinematic wide angle, 8k --ar 9:16 --v 6.0
+
+[장면 3: 칠흑 속 헤엄치는 개 (00:07 - 00:12)]
+Prompt: Low angle shot of a wet loyal dog swimming tirelessly across vast open ocean, pitch black water with subtle silver reflections, emotional perseverance, cinematic realism --ar 9:16 --v 6.0
+
+[장면 4: 구조 헬기와 발견 (00:12 - 00:20)]
+Prompt: A search and rescue helicopter spotlight shining brightly down onto the ocean surface, illuminating a swimming dog in the water, powerful dramatic beam of light, rescue mission aesthetic --ar 9:16 --v 6.0
+
+[장면 5: 기적의 재회 (00:20 - 00:28)]
+Prompt: Emotional reunion of an exhausted man wrapped in a warm rescue blanket hugging his wet brave golden retriever on a boat deck, tears of relief, golden hour sunrise lighting, deeply touching realistic photography --ar 9:16 --v 6.0

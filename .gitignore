@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Python cache & virtual environments
+__pycache__/
+backend/__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Environment and sensitive keys
+.env
+.env.*
+workspace/settings.json
+
+# Local temp & SQLite files
+temp_hist.db
+*.tmp
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
